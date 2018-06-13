@@ -1,0 +1,1400 @@
+fileFormatVersion: 2
+guid: 18a67d66144c8cf46842a3c1f30d9217
+timeCreated: 1497584532
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Friendlies Sheet_0
+    21300002: Friendlies Sheet_1
+    21300004: Friendlies Sheet_2
+    21300006: Friendlies Sheet_3
+    21300008: Friendlies Sheet_4
+    21300010: Friendlies Sheet_5
+    21300012: Friendlies Sheet_6
+    21300014: Friendlies Sheet_7
+    21300016: Friendlies Sheet_8
+    21300018: Friendlies Sheet_9
+    21300020: Friendlies Sheet_10
+    21300022: Xwing
+    21300024: Friendlies Sheet_12
+    21300026: Friendlies Sheet_13
+    21300028: Friendlies Sheet_14
+    21300030: Friendlies Sheet_15
+    21300032: Friendlies Sheet_16
+    21300034: Friendlies Sheet_17
+    21300036: Friendlies Sheet_18
+    21300038: Friendlies Sheet_19
+    21300040: Friendlies Sheet_20
+    21300042: Friendlies Sheet_21
+    21300044: Friendlies Sheet_22
+    21300046: Friendlies Sheet_23
+    21300048: Friendlies Sheet_24
+    21300050: Friendlies Sheet_25
+    21300052: Friendlies Sheet_26
+    21300054: Friendlies Sheet_27
+    21300056: Friendlies Sheet_28
+    21300058: Friendlies Sheet_29
+    21300060: Friendlies Sheet_30
+    21300062: Friendlies Sheet_31
+    21300064: Friendlies Sheet_32
+    21300066: Friendlies Sheet_33
+    21300068: Friendlies Sheet_34
+    21300070: Friendlies Sheet_35
+    21300072: Friendlies Sheet_36
+    21300074: Friendlies Sheet_37
+    21300076: Friendlies Sheet_38
+    21300078: Friendlies Sheet_39
+    21300080: Friendlies Sheet_40
+    21300082: Friendlies Sheet_41
+    21300084: Friendlies Sheet_42
+    21300086: Friendlies Sheet_43
+    21300088: Friendlies Sheet_44
+    21300090: Friendlies Sheet_45
+    21300092: Friendlies Sheet_46
+    21300094: Friendlies Sheet_47
+    21300096: Friendlies Sheet_48
+    21300098: Friendlies Sheet_49
+    21300100: Friendlies Sheet_50
+    21300102: Friendlies Sheet_51
+    21300104: Friendlies Sheet_52
+    21300106: Friendlies Sheet_53
+    21300108: Friendlies Sheet_54
+    21300110: Friendlies Sheet_55
+    21300112: Friendlies Sheet_56
+    21300114: Friendlies Sheet_57
+    21300116: Friendlies Sheet_58
+    21300118: Friendlies Sheet_59
+    21300120: Friendlies Sheet_60
+    21300122: Friendlies Sheet_61
+    21300124: Friendlies Sheet_62
+    21300126: Friendlies Sheet_63
+    21300128: Friendlies Sheet_64
+    21300130: Friendlies Sheet_65
+    21300132: Friendlies Sheet_66
+    21300134: Friendlies Sheet_67
+    21300136: Friendlies Sheet_68
+    21300138: Friendlies Sheet_69
+    21300140: Friendlies Sheet_70
+    21300142: Friendlies Sheet_71
+    21300144: Friendlies Sheet_72
+    21300146: Friendlies Sheet_73
+    21300148: Friendlies Sheet_74
+    21300150: Friendlies Sheet_75
+    21300152: Friendlies Sheet_76
+    21300154: Friendlies Sheet_77
+    21300156: Friendlies Sheet_78
+    21300158: Friendlies Sheet_79
+    21300160: Friendlies Sheet_80
+    21300162: Friendlies Sheet_81
+    21300164: Friendlies Sheet_82
+    21300166: Friendlies Sheet_83
+    21300168: Friendlies Sheet_84
+    21300170: Friendlies Sheet_85
+    21300172: Friendlies Sheet_86
+    21300174: Friendlies Sheet_87
+    21300176: Friendlies Sheet_88
+    21300178: Friendlies Sheet_89
+    21300180: Friendlies Sheet_90
+    21300182: Friendlies Sheet_91
+    21300184: Friendlies Sheet_92
+    21300186: Friendlies Sheet_93
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Friendlies Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2240
+        width: 83
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2238
+        width: 85
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2197
+        width: 83
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2221
+        width: 109
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2244
+        width: 99
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2261
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2090
+        width: 321
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2016
+        width: 252
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2103
+        width: 261
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2173
+        width: 152
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 2079
+        width: 157
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Xwing
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 2135
+        width: 224
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 2128
+        width: 139
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 2073
+        width: 157
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1827
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1832
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1831
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1815
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1775
+        width: 113
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1825
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1760
+        width: 190
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1783
+        width: 141
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1788
+        width: 342
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1769
+        width: 227
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1756
+        width: 230
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1769
+        width: 167
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1769
+        width: 159
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1764
+        width: 142
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1383
+        width: 278
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1467
+        width: 108
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1465
+        width: 119
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1454
+        width: 149
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1468
+        width: 181
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1467
+        width: 235
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1485
+        width: 127
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1486
+        width: 104
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1481
+        width: 92
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1473
+        width: 68
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1479
+        width: 69
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1437
+        width: 85
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1419
+        width: 148
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1446
+        width: 246
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1124
+        width: 144
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1135
+        width: 103
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1099
+        width: 136
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1149
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1097
+        width: 227
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1100
+        width: 638
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1124
+        width: 164
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1124
+        width: 198
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1002
+        width: 261
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1112
+        width: 98
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 834
+        width: 122
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 831
+        width: 123
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 788
+        width: 217
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 808
+        width: 108
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 790
+        width: 152
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 770
+        width: 300
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 826
+        width: 74
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 825
+        width: 158
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 805
+        width: 192
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 811
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 769
+        width: 144
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 804
+        width: 65
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 790
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 466
+        width: 70
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 459
+        width: 97
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 345
+        width: 202
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 440
+        width: 330
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 450
+        width: 237
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 389
+        width: 175
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 457
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 447
+        width: 113
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 483
+        width: 170
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 390
+        width: 249
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 385
+        width: 187
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 458
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 428
+        width: 173
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 103
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 98
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 106
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 117
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 122
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 102
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 75
+        width: 139
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 118
+        width: 113
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 105
+        width: 365
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 86
+        width: 266
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 97
+        width: 102
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 96
+        width: 102
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 75
+        width: 102
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 124
+        width: 122
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Friendlies Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 64
+        width: 226
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

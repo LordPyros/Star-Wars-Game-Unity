@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerShipTag
+  - EnemyShipTag
+  - PlayerLaserTag
+  - EnemyLaserTag
+  - ScoreTextTag
+  - MissileTargetTag
+  - PosMissileTargetTag
+  - PlayerProtonTorpedoTag
+  - FriendlyShipTag
+  - PowerUpTorpedoTag
+  - PowerUpShieldTag
+  - PlayerConcussionMissileTag
+  - EnemyCapitalShipTag
+  - EnemyHeavyLaserTag
+  - LeftShieldGenTag
+  - RightShieldGenTag
+  - EnemyProtonTorpedoTag
+  - CounterMeasureTag
+  - PowerUpLaserTag
+  - Player2LaserTag
+  - EnemyConcussionMissileTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackGroundImage
+  - BackGround
+  - GamePlay
+  - Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGroundImage
+    uniqueID: 4003451055
+    locked: 0
+  - name: BackGround
+    uniqueID: 4273538237
+    locked: 0
+  - name: GamePlay
+    uniqueID: 619693469
+    locked: 0
+  - name: Effects
+    uniqueID: 3838400203
+    locked: 0
